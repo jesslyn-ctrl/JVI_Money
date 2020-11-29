@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{00F623CE-E5FC-440C-A0E4-F9D43B597F42}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>JVIMoney.My.MyApplication</StartupObject>
+    <RootNamespace>JVIMoney</RootNamespace>
+    <AssemblyName>JVIMoney</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>JVIMoney.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>JVIMoney.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="add.Designer.vb">
+      <DependentUpon>add.vb</DependentUpon>
+    </Compile>
+    <Compile Include="add.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="akun.Designer.vb">
+      <DependentUpon>akun.vb</DependentUpon>
+    </Compile>
+    <Compile Include="akun.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="changepass.Designer.vb">
+      <DependentUpon>changepass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="changepass.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="createwallet.Designer.vb">
+      <DependentUpon>createwallet.vb</DependentUpon>
+    </Compile>
+    <Compile Include="createwallet.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="global_set.vb" />
+    <Compile Include="JVI_MoneyDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>JVI_MoneyDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="JVI_MoneyDataSet.vb">
+      <DependentUpon>JVI_MoneyDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="menu.Designer.vb">
+      <DependentUpon>menu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu\Account.Designer.vb">
+      <DependentUpon>Account.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\Account.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu\Categories.Designer.vb">
+      <DependentUpon>Categories.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\Categories.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Money_dummy.Designer.vb">
+      <DependentUpon>Money_dummy.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Money_dummy.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="month.Designer.vb">
+      <DependentUpon>month.vb</DependentUpon>
+    </Compile>
+    <Compile Include="month.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="newacc.Designer.vb">
+      <DependentUpon>newacc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="newacc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewCategory.Designer.vb">
+      <DependentUpon>NewCategory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NewCategory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="signin.Designer.vb">
+      <DependentUpon>signin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="signin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu\transaction.Designer.vb">
+      <DependentUpon>transaction.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\transaction.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view.Designer.vb">
+      <DependentUpon>view.vb</DependentUpon>
+    </Compile>
+    <Compile Include="view.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="add.resx">
+      <DependentUpon>add.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="akun.resx">
+      <DependentUpon>akun.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="changepass.resx">
+      <DependentUpon>changepass.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="createwallet.resx">
+      <DependentUpon>createwallet.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menu.resx">
+      <DependentUpon>menu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\Account.resx">
+      <DependentUpon>Account.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\Categories.resx">
+      <DependentUpon>Categories.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Money_dummy.resx">
+      <DependentUpon>Money_dummy.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="month.resx">
+      <DependentUpon>month.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newacc.resx">
+      <DependentUpon>newacc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewCategory.resx">
+      <DependentUpon>NewCategory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="signin.resx">
+      <DependentUpon>signin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\transaction.resx">
+      <DependentUpon>transaction.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view.resx">
+      <DependentUpon>view.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="JVI_MoneyDataSet.xsc">
+      <DependentUpon>JVI_MoneyDataSet.xsd</DependentUpon>
+    </None>
+    <AdditionalFiles Include="JVI_MoneyDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>JVI_MoneyDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </AdditionalFiles>
+    <None Include="JVI_MoneyDataSet.xss">
+      <DependentUpon>JVI_MoneyDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jvimoneylogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bggui uas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bggui uas2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AYAM.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoayam.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backbutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backbutton1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eyebutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\line.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\more.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

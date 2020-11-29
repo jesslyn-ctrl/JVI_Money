@@ -1,0 +1,90 @@
+D:\SEMESTER 3\GUI\JVIMoney\JVIMoney\bin\Debug\JVIMoney.exe.config
+D:\SEMESTER 3\GUI\JVIMoney\JVIMoney\bin\Debug\JVIMoney.exe
+D:\SEMESTER 3\GUI\JVIMoney\JVIMoney\bin\Debug\JVIMoney.pdb
+D:\SEMESTER 3\GUI\JVIMoney\JVIMoney\bin\Debug\JVIMoney.xml
+D:\SEMESTER 3\GUI\JVIMoney\JVIMoney\obj\Debug\JVIMoney.vbprojAssemblyReference.cache
+D:\SEMESTER 3\GUI\JVIMoney\JVIMoney\obj\Debug\JVIMoney.akun.resources
+D:\SEMESTER 3\GUI\JVIMoney\JVIMoney\obj\Debug\JVIMoney.Form1.resources
+D:\SEMESTER 3\GUI\JVIMoney\JVIMoney\obj\Debug\JVIMoney.Resources.resources
+D:\SEMESTER 3\GUI\JVIMoney\JVIMoney\obj\Debug\JVIMoney.vbproj.GenerateResource.cache
+D:\SEMESTER 3\GUI\JVIMoney\JVIMoney\obj\Debug\JVIMoney.vbproj.CoreCompileInputs.cache
+D:\SEMESTER 3\GUI\JVIMoney\JVIMoney\obj\Debug\JVIMoney.exe
+D:\SEMESTER 3\GUI\JVIMoney\JVIMoney\obj\Debug\JVIMoney.xml
+D:\SEMESTER 3\GUI\JVIMoney\JVIMoney\obj\Debug\JVIMoney.pdb
+D:\SEMESTER 3\GUI\JVIMoney\JVIMoney\obj\Debug\JVIMoney.newacc.resources
+D:\SEMESTER 3\GUI\JVIMoney\JVIMoney\obj\Debug\JVIMoney.signin.resources
+D:\SEMESTER 3\GUI\JVIMoney\JVIMoney\obj\Debug\JVIMoney.createwallet.resources
+C:\Users\Ika Chandriyani\OneDrive\Desktop\JVIMoney\JVIMoney\bin\Debug\JVIMoney.exe.config
+C:\Users\Ika Chandriyani\OneDrive\Desktop\JVIMoney\JVIMoney\bin\Debug\JVIMoney.exe
+C:\Users\Ika Chandriyani\OneDrive\Desktop\JVIMoney\JVIMoney\bin\Debug\JVIMoney.pdb
+C:\Users\Ika Chandriyani\OneDrive\Desktop\JVIMoney\JVIMoney\bin\Debug\JVIMoney.xml
+C:\Users\Ika Chandriyani\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.vbprojAssemblyReference.cache
+C:\Users\Ika Chandriyani\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.add.resources
+C:\Users\Ika Chandriyani\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.akun.resources
+C:\Users\Ika Chandriyani\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.createwallet.resources
+C:\Users\Ika Chandriyani\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.pilihanmenu.resources
+C:\Users\Ika Chandriyani\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.Account.resources
+C:\Users\Ika Chandriyani\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.Categories.resources
+C:\Users\Ika Chandriyani\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.Resources.resources
+C:\Users\Ika Chandriyani\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.newacc.resources
+C:\Users\Ika Chandriyani\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.signin.resources
+C:\Users\Ika Chandriyani\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.transaction.resources
+C:\Users\Ika Chandriyani\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.vbproj.GenerateResource.cache
+C:\Users\Ika Chandriyani\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.vbproj.CoreCompileInputs.cache
+C:\Users\Ika Chandriyani\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.exe
+C:\Users\Ika Chandriyani\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.xml
+C:\Users\Ika Chandriyani\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.pdb
+C:\Users\Ika Chandriyani\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.NewCategory.resources
+C:\Users\Ika Chandriyani\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.changepass.resources
+C:\Users\Ika Chandriyani\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.view.resources
+C:\Users\Ika Chandriyani\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.month.resources
+C:\Users\Jess\OneDrive\Desktop\JVIMoney\JVIMoney\bin\Debug\JVIMoney.exe.config
+C:\Users\Jess\OneDrive\Desktop\JVIMoney\JVIMoney\bin\Debug\JVIMoney.exe
+C:\Users\Jess\OneDrive\Desktop\JVIMoney\JVIMoney\bin\Debug\JVIMoney.pdb
+C:\Users\Jess\OneDrive\Desktop\JVIMoney\JVIMoney\bin\Debug\JVIMoney.xml
+C:\Users\Jess\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.vbprojAssemblyReference.cache
+C:\Users\Jess\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.add.resources
+C:\Users\Jess\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.akun.resources
+C:\Users\Jess\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.changepass.resources
+C:\Users\Jess\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.createwallet.resources
+C:\Users\Jess\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.pilihanmenu.resources
+C:\Users\Jess\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.Account.resources
+C:\Users\Jess\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.Categories.resources
+C:\Users\Jess\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.month.resources
+C:\Users\Jess\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.Resources.resources
+C:\Users\Jess\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.newacc.resources
+C:\Users\Jess\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.NewCategory.resources
+C:\Users\Jess\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.signin.resources
+C:\Users\Jess\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.transaction.resources
+C:\Users\Jess\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.view.resources
+C:\Users\Jess\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.vbproj.GenerateResource.cache
+C:\Users\Jess\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.vbproj.CoreCompileInputs.cache
+C:\Users\Jess\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.exe
+C:\Users\Jess\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.xml
+C:\Users\Jess\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.pdb
+C:\Users\Jess\Downloads\JVIMoney\JVIMoney\bin\Debug\JVIMoney.exe.config
+C:\Users\Jess\Downloads\JVIMoney\JVIMoney\bin\Debug\JVIMoney.exe
+C:\Users\Jess\Downloads\JVIMoney\JVIMoney\bin\Debug\JVIMoney.pdb
+C:\Users\Jess\Downloads\JVIMoney\JVIMoney\bin\Debug\JVIMoney.xml
+C:\Users\Jess\Downloads\JVIMoney\JVIMoney\obj\Debug\JVIMoney.vbprojAssemblyReference.cache
+C:\Users\Jess\Downloads\JVIMoney\JVIMoney\obj\Debug\JVIMoney.add.resources
+C:\Users\Jess\Downloads\JVIMoney\JVIMoney\obj\Debug\JVIMoney.akun.resources
+C:\Users\Jess\Downloads\JVIMoney\JVIMoney\obj\Debug\JVIMoney.changepass.resources
+C:\Users\Jess\Downloads\JVIMoney\JVIMoney\obj\Debug\JVIMoney.createwallet.resources
+C:\Users\Jess\Downloads\JVIMoney\JVIMoney\obj\Debug\JVIMoney.pilihanmenu.resources
+C:\Users\Jess\Downloads\JVIMoney\JVIMoney\obj\Debug\JVIMoney.Account.resources
+C:\Users\Jess\Downloads\JVIMoney\JVIMoney\obj\Debug\JVIMoney.Categories.resources
+C:\Users\Jess\Downloads\JVIMoney\JVIMoney\obj\Debug\JVIMoney.Money_dummy.resources
+C:\Users\Jess\Downloads\JVIMoney\JVIMoney\obj\Debug\JVIMoney.month.resources
+C:\Users\Jess\Downloads\JVIMoney\JVIMoney\obj\Debug\JVIMoney.Resources.resources
+C:\Users\Jess\Downloads\JVIMoney\JVIMoney\obj\Debug\JVIMoney.newacc.resources
+C:\Users\Jess\Downloads\JVIMoney\JVIMoney\obj\Debug\JVIMoney.NewCategory.resources
+C:\Users\Jess\Downloads\JVIMoney\JVIMoney\obj\Debug\JVIMoney.signin.resources
+C:\Users\Jess\Downloads\JVIMoney\JVIMoney\obj\Debug\JVIMoney.transaction.resources
+C:\Users\Jess\Downloads\JVIMoney\JVIMoney\obj\Debug\JVIMoney.view.resources
+C:\Users\Jess\Downloads\JVIMoney\JVIMoney\obj\Debug\JVIMoney.vbproj.GenerateResource.cache
+C:\Users\Jess\Downloads\JVIMoney\JVIMoney\obj\Debug\JVIMoney.vbproj.CoreCompileInputs.cache
+C:\Users\Jess\Downloads\JVIMoney\JVIMoney\obj\Debug\JVIMoney.exe
+C:\Users\Jess\Downloads\JVIMoney\JVIMoney\obj\Debug\JVIMoney.xml
+C:\Users\Jess\Downloads\JVIMoney\JVIMoney\obj\Debug\JVIMoney.pdb
+C:\Users\Jess\OneDrive\Desktop\JVIMoney\JVIMoney\obj\Debug\JVIMoney.Money_dummy.resources
